@@ -1,14 +1,14 @@
 ## Hi there 👋
-#**I am Yossef Alatter from Egypt,
+**I am Yossef Alatter from Egypt,
 I am very happy to see you here in my github account.**
 
 ---
-### Who Am I ? 🤔
+# Who Am I ? 🤔
 
 I am Yossef Alattar, I am a man who built his own espcial knowledge as a web developer. I started coding when i was in secondary school, my start in programming world was so diffcult but i did all my best and make my own road to be a web developer. So  i started to learn from different sources untill i gian a basic knowledge to help me to stand and think as web developer. Finally i  gain it and i am a proud of it 
 
 ---
-### What I Do ? 🔨
+# What I Do ? 🔨
 
 I desgin and build web pages as a freelancer in mostaql, upwork and freelance.com platforms 💻.                                                                                   
 In details ...                                                                                                                                                                     
@@ -26,6 +26,6 @@ Also code possess the following
   - simple and short
 
 ---
-### Skills
+# Skills
 
   
