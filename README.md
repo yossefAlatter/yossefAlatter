@@ -10,7 +10,7 @@ I am Yossef Alattar, I am a man who built his own espcial knowledge as a web dev
 ---
 ### What I Do ? 🔨
 
-I desgin and build web pages as a freelancer in mostaql, upwork and freelance.com platform 💻.                                                                                   
+I desgin and build web pages as a freelancer in mostaql, upwork and freelance.com platforms 💻.                                                                                   
 In details ...                                                                                                                                                                     
 I am using figma to build web pages which have ...
   - responsive desgin 
@@ -18,7 +18,7 @@ I am using figma to build web pages which have ...
   - approval to user interface and user experience standards
   - my client is happy with it
 
-Then i start coding it using my own skills which i learn it from a long hard journey.
+Then i start coding it using my own skills which i learn it from a long hard journey.                                                                                               
 Also code possess the following
   - organized code with clear comments describe it.
   - easy to edit it.
