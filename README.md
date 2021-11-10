@@ -58,9 +58,6 @@ Also code possess the following
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 
----
-
-## Github Stat
 
 
 
