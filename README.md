@@ -8,32 +8,19 @@
 
 ## Who Am I ? 🤔
 
-I am Yossef Alattar, I am a man who built his own espcial knowledge as a web developer. I started coding when i was in secondary school, my start in programming world was so diffcult but i did all my best and make my own road to be a web developer. So  i started to learn from different sources untill i gian a basic knowledge to help me to stand and think as web developer. Finally i  gain it and i am a proud of it 
+I am Yossef Alattar, I am interested on building web apps with new ideas and challenges. I used to use vue.js and vuetify.js for frontend development and node.js and express for backend development but also i can adapt with any other framework for frontend or backend development
 
 ---
 
-## What I Do ? 🔨
+## The services I provide 🔨
 
-I desgin and build web pages as a freelancer in mostaql, upwork and freelance.com platforms 💻.                                                                                   
-In details ...                                                                                                                                                                     
-I am using figma to build web pages which have ...
-  - responsive desgin 
-  - matching colors and fonts
-  - approval to user interface and user experience standards
-  - my client is happy with it
-
-Then i start coding it using my own skills which i learn it from a long hard journey.                                                                                               
-Also code possess the following
-  - organized code with clear comments describe it.
-  - easy to edit it.
-  - easy to read 
-  - simple and short
-
+1- Building management systems for any bussiness
+2- make portoflios and landing pages for new companies
 ---
 
 ## Skills
 
-### I have Learned 
+### I know ...
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -51,11 +38,7 @@ Also code possess the following
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### I am currently learning
-![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 
 
