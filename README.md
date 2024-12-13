@@ -14,8 +14,8 @@ I am Yossef Alattar, I am interested on building web apps with new ideas and cha
 
 ## The services I provide 🔨
 
--- Building management systems for any bussiness
--- make portoflios and landing pages for new companies
+- Building management systems for any bussiness
+- make portoflios and landing pages for new companies
 ---
 
 ## Skills
