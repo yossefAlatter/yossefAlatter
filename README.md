@@ -42,6 +42,7 @@ I am Yossef Alattar, I am interested on building web apps with new ideas and cha
 
 ----
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yossefAlatter&layout=compact&theme=dark)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yossefAlatter&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 
 
