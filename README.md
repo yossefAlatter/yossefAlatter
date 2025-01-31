@@ -41,7 +41,7 @@ I am Yossef Alattar, I am interested on building web apps with new ideas and cha
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yossefAlatter&layout=compact)
 
 
 
